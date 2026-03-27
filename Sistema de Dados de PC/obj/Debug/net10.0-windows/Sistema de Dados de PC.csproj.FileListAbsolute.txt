@@ -1,0 +1,14 @@
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\bin\Debug\net10.0-windows\Sistema de Dados de PC.exe
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\bin\Debug\net10.0-windows\Sistema de Dados de PC.deps.json
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\bin\Debug\net10.0-windows\Sistema de Dados de PC.runtimeconfig.json
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\bin\Debug\net10.0-windows\Sistema de Dados de PC.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\bin\Debug\net10.0-windows\Sistema de Dados de PC.pdb
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\Sistema de Dados de PC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\Sistema de Dados de PC.AssemblyInfoInputs.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\Sistema de Dados de PC.AssemblyInfo.cs
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\Sistema de Dados de PC.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\Sistema de Dados de PC.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\refint\Sistema de Dados de PC.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\Sistema de Dados de PC.pdb
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\Sistema de Dados de PC.genruntimeconfig.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Dados de PC\obj\Debug\net10.0-windows\ref\Sistema de Dados de PC.dll

@@ -1,0 +1,407 @@
+[
+  {
+    "codigo": "847473",
+    "fabricante": "Samsung",
+    "velocidade": 3,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "AMD",
+    "ssd": 512
+  },
+  {
+    "codigo": "6485665",
+    "fabricante": "Lenovo",
+    "velocidade": 3,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "AMD",
+    "ssd": 512
+  },
+  {
+    "codigo": "847473",
+    "fabricante": "Samsung",
+    "velocidade": 3.8,
+    "nucleos": 6,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "847457",
+    "fabricante": "Asus",
+    "velocidade": 4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "871363",
+    "fabricante": "Dell",
+    "velocidade": 2.4,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "742663",
+    "fabricante": "HP",
+    "velocidade": 3,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "9117372",
+    "fabricante": "HP",
+    "velocidade": 2.4,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 128
+  },
+  {
+    "codigo": "938582",
+    "fabricante": "HP",
+    "velocidade": 1.2,
+    "nucleos": 2,
+    "ram": 4,
+    "fabricante_processador": "AMD",
+    "ssd": 128
+  },
+  {
+    "codigo": "928327",
+    "fabricante": "Asus",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "417471",
+    "fabricante": "HP",
+    "velocidade": 2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "928327",
+    "fabricante": "Asus",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "928327",
+    "fabricante": "Asus",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "3893328",
+    "fabricante": "Samsung",
+    "velocidade": 2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "09482732",
+    "fabricante": "Samsung",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "859328",
+    "fabricante": "Samsung",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "64352",
+    "fabricante": "Samsung",
+    "velocidade": 3.2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "7283726",
+    "fabricante": "Samsung",
+    "velocidade": 1.2,
+    "nucleos": 2,
+    "ram": 4,
+    "fabricante_processador": "AMD",
+    "ssd": 128
+  },
+  {
+    "codigo": "723188",
+    "fabricante": "Dell",
+    "velocidade": 2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "62262",
+    "fabricante": "Dell",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "AMD",
+    "ssd": 512
+  },
+  {
+    "codigo": "41515",
+    "fabricante": "Dell",
+    "velocidade": 2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "142141",
+    "fabricante": "Dell",
+    "velocidade": 1.2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "234514",
+    "fabricante": "Sony",
+    "velocidade": 3,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "5152414",
+    "fabricante": "Sony",
+    "velocidade": 3,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "234111",
+    "fabricante": "Sony",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "432452",
+    "fabricante": "Google",
+    "velocidade": 3,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "AMD",
+    "ssd": 512
+  },
+  {
+    "codigo": "412124",
+    "fabricante": "Google",
+    "velocidade": 2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "5122121",
+    "fabricante": "Google",
+    "velocidade": 3.2,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "AMD",
+    "ssd": 512
+  },
+  {
+    "codigo": "299029",
+    "fabricante": "Microsoft",
+    "velocidade": 3,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "AMD",
+    "ssd": 512
+  },
+  {
+    "codigo": "457773",
+    "fabricante": "Microsoft",
+    "velocidade": 3,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "AMD",
+    "ssd": 512
+  },
+  {
+    "codigo": "677843",
+    "fabricante": "Microsoft",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "AMD",
+    "ssd": 512
+  },
+  {
+    "codigo": "34414",
+    "fabricante": "Microsoft",
+    "velocidade": 3.2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "5552442",
+    "fabricante": "Apple",
+    "velocidade": 3,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "4218371",
+    "fabricante": "Apple",
+    "velocidade": 3,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "058327",
+    "fabricante": "Apple",
+    "velocidade": 3,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "62342",
+    "fabricante": "Apple",
+    "velocidade": 2.4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "32942",
+    "fabricante": "Lenovo",
+    "velocidade": 2.4,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "85445",
+    "fabricante": "Lenovo",
+    "velocidade": 3,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "675675",
+    "fabricante": "Lenovo",
+    "velocidade": 3,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "451515",
+    "fabricante": "Lenovo",
+    "velocidade": 3,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "3241415",
+    "fabricante": "Lenovo",
+    "velocidade": 1.2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "14421",
+    "fabricante": "Google",
+    "velocidade": 2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "81238",
+    "fabricante": "Sony",
+    "velocidade": 1,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  },
+  {
+    "codigo": "4814818",
+    "fabricante": "Samsung",
+    "velocidade": 4,
+    "nucleos": 8,
+    "ram": 16,
+    "fabricante_processador": "Intel",
+    "ssd": 512
+  },
+  {
+    "codigo": "4939",
+    "fabricante": "Lenovo",
+    "velocidade": 4,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "Intel",
+    "ssd": 256
+  },
+  {
+    "codigo": "2091",
+    "fabricante": "Microsoft",
+    "velocidade": 2,
+    "nucleos": 4,
+    "ram": 8,
+    "fabricante_processador": "AMD",
+    "ssd": 256
+  }
+]
